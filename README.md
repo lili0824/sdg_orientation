@@ -1,7 +1,7 @@
 # Supplementary materials overview
 This repository contains the supplementary materials for our paper "Simulating the Impact of Ground Surface Morphology on Archaeological Orientation Patterning". The paper is now out online in Journal of Archaeological Science at: https://www.sciencedirect.com/science/article/pii/S0305440320302302?dgcid=coauthor. 
 
-The supplementary materials include the Python code for generating simulated artifacts, the QGIS file of the three selected terrains from the modern Shuidonggou landscape, the QGIS file of the experimental square, and the two-shot orientation data of the Shuidonggou Locality 2 artifacts. 
+The supplementary materials include the Python code for generating simulated artifacts, the QGIS file of the three selected terrains from the modern Shuidonggou landscape, the QGIS file of the experimental square, the two-shot orientation data of the Shuidonggou Locality 2 artifacts, and the R code used to generate the figures and statistical test results. 
 
 ## Python code
 There are two Python scripts included in the supplementary material, 'generate_two_shots.py' and 'generate_random_points.py'.
